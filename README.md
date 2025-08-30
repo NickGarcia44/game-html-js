@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎲 Jogos de Adivinhação de Números em JavaScript
 
 Este repositório contém **dois jogos de adivinhação de números**, criados para testar **JavaScript em funcionamento** com HTML. Os jogos são ideais para iniciantes que querem praticar **lógica de programação e interação com o usuário**.
@@ -31,3 +32,6 @@ Este repositório contém **dois jogos de adivinhação de números**, criados p
 - Continua pedindo palpites até o número correto ser adivinhado.
 
 ---
+=======
+# Jogos lógica com js
+>>>>>>> ed82195 (commit)
